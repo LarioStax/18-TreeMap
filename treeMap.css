@@ -1,0 +1,18 @@
+body {
+	color: black;
+	background-color: #eee !important;
+}
+
+text {
+	cursor: default;
+}
+
+.btn {
+	background-color: #555;
+	color: #fff;
+	margin: 10px;
+}
+
+.btn:hover {
+	opacity: 0.5;
+}
